@@ -29,6 +29,7 @@ https://nekonyan.fun/dav.theme.css/dav.css
 https://quinc.nekonyan.fun/simplified/
 https://nekonyan.fun/robots.txt
 https://nekonyan.fun/sitemap.xml
+https://nekonyan.fun/URLs.txt
 http://nekonyan.fun/
 https://www.nekonyan.fun/
 http://www.nekonyan.fun/
